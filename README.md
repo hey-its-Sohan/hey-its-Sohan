@@ -24,29 +24,31 @@
 
 ## 🛠️ Skills
 
-### 💻 Languages & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
 
-### 🧩 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔐 Authentication & APIs
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-%23000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ### ☁️ Deployment
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
