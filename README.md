@@ -53,8 +53,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohan-dev&show_icons=true&theme=github_dark" alt="Sohan's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan-dev&layout=compact&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hey-its-Sohan&show_icons=true&theme=github_dark" alt="Sohan's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-its-Sohan&layout=compact&theme=github_dark" height="150" />
 </p>
 
 ---
