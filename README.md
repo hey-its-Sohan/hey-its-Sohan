@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-🚀 I'm a passionate web developer currently focused on building full-stack applications using the **MERN stack**. I enjoy writing clean, maintainable code and bringing ideas to life in the browser. I’m currently open to **internships, freelance work**, or a **junior developer role** where I can grow and contribute to meaningful projects.
+🚀 I'm CS undergrad student at BRAC University and a passionate web developer currently focused on building full-stack applications using the **MERN stack**. I enjoy writing clean, maintainable code and bringing ideas to life in the browser. I’m currently open to **internships, freelance work**, or a **junior developer role** where I can grow and contribute to meaningful projects.
 
 ---
 
