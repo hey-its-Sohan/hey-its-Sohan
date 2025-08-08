@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-url.com" alt="Banner" width="100%">
+  <img src="https://i.ibb.co.com/C3qpgrCc/Abstract-Technology-Profile-Linked-In-Banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Mahmudul Islam Sohan 👋</h1>
